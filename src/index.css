@@ -1,0 +1,134 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-void: #000000;
+  --fg-pearl: #f4f6fa;
+  --fg-mist: #9aa3b2;
+  --accent-cyan: #00f0ff;
+  --accent-turquoise: #2dd4bf;
+  --accent-magenta: #ec4899;
+  --accent-violet: #8b5cf6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #000000;
+  color: #f4f6fa;
+  scroll-behavior: auto; /* Handled cleanly by Lenis */
+}
+
+body {
+  margin: 0;
+  background-color: #000000;
+  color: #f4f6fa;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom subtle obsidian scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.14);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 240, 255, 0.45);
+}
+
+/* Editorial gradient & liquid hover accents */
+.text-iridescent {
+  background: linear-gradient(
+    110deg,
+    #f8fafc 0%,
+    #00f0ff 32%,
+    #2dd4bf 54%,
+    #ec4899 78%,
+    #f8fafc 100%
+  );
+  background-size: 220% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: shimmerFlow 9s linear infinite;
+}
+
+@keyframes shimmerFlow {
+  0% {
+    background-position: 0% center;
+  }
+  100% {
+    background-position: 220% center;
+  }
+}
+
+/* Hairline glass panels without generic purple SaaS neon clichés */
+.obsidian-glass {
+  background: linear-gradient(
+    155deg,
+    rgba(14, 16, 22, 0.72) 0%,
+    rgba(5, 6, 10, 0.86) 100%
+  );
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  border: 1px solid rgba(255, 255, 255, 0.085);
+}
+
+.obsidian-glass-subtle {
+  background: rgba(7, 8, 12, 0.56);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+/* Liquid hover distortion applied cleanly to selected editorial headlines */
+.liquid-headline {
+  transition: filter 0.35s ease, letter-spacing 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.liquid-headline:hover {
+  filter: url(#liquid-distort);
+}
+
+/* Custom cursor hiding default cursor on fine-pointer desktops when enabled */
+@media (pointer: fine) {
+  body.has-custom-cursor,
+  body.has-custom-cursor a,
+  body.has-custom-cursor button,
+  body.has-custom-cursor [data-cursor] {
+    cursor: none !important;
+  }
+}
+
+/* Accessibility focus rings */
+:focus-visible {
+  outline: 1.5px solid #00f0ff;
+  outline-offset: 3px;
+}
+
+/* Reduced Motion support */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+

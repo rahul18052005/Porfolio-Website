@@ -1,0 +1,118 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R /Annots [7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R] >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Roman >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Bold >>
+endobj
+6 0 obj
+<< /Length 8219 >>
+stream
+BT 1 0 0 1 245.76 795.89 Tm /F2 20.50 Tf 0.070 0.070 0.080 rg (RAHUL HOR) Tj ET
+BT 1 0 0 1 96.04 779.39 Tm /F1 9.00 Tf 0.080 0.080 0.100 rg (+91 93395 22029  |  Purba Bardhaman, West Bengal  |  ) Tj /F1 9.00 Tf 0.110 0.310 0.850 rg (rahulhor2024@gmail.com) Tj /F1 9.00 Tf 0.080 0.080 0.100 rg (  |  ) Tj /F1 9.00 Tf 0.110 0.310 0.850 rg (LinkedIn) Tj /F1 9.00 Tf 0.080 0.080 0.100 rg (  |  ) Tj /F1 9.00 Tf 0.110 0.310 0.850 rg (GitHub) Tj /F1 9.00 Tf 0.080 0.080 0.100 rg (  |  ) Tj /F1 9.00 Tf 0.110 0.310 0.850 rg (LeetCode) Tj ET
+BT 1 0 0 1 277.47 760.89 Tm /F2 11.50 Tf 0.070 0.070 0.080 rg (Summary) Tj ET
+0.15 0.15 0.18 RG 0.75 w 46.00 756.89 m 549.28 756.89 l S
+BT 1 0 0 1 46.00 744.39 Tm /F1 9.50 Tf 0.070 0.070 0.080 rg (Aspiring AI/ML Engineer and Software Engineer pursuing a B.Tech in Computer Science Engineering \(Data Science\), specializing in) Tj ET
+BT 1 0 0 1 46.00 732.19 Tm /F1 9.50 Tf 0.070 0.070 0.080 rg (Machine Learning, Deep Learning, Generative AI, RAG, Agentic AI, and MERN Stack development. Hands-on experience building) Tj ET
+BT 1 0 0 1 46.00 719.99 Tm /F1 9.50 Tf 0.070 0.070 0.080 rg (AI-driven applications using Python, Java, JavaScript, React.js, Node.js, Express.js, MongoDB, Scikit-learn, TensorFlow, PyTorch,) Tj ET
+BT 1 0 0 1 46.00 707.79 Tm /F1 9.50 Tf 0.070 0.070 0.080 rg (LangChain, and REST APIs. Experienced in developing projects involving NLP, Computer Vision, LLM applications, AI agents, and) Tj ET
+BT 1 0 0 1 46.00 695.59 Tm /F1 9.50 Tf 0.070 0.070 0.080 rg (automation workflows. Solved 200+ DSA problems with a strong foundation in problem-solving and software development. Seeking) Tj ET
+BT 1 0 0 1 46.00 683.39 Tm /F1 9.50 Tf 0.070 0.070 0.080 rg (entry-level AI/ML Engineer, GenAI Engineer, or Software Engineer roles.) Tj ET
+BT 1 0 0 1 283.63 657.69 Tm /F2 11.50 Tf 0.070 0.070 0.080 rg (Skills) Tj ET
+0.15 0.15 0.18 RG 0.75 w 46.00 653.69 m 549.28 653.69 l S
+BT 1 0 0 1 46.00 641.19 Tm /F2 9.20 Tf 0.080 0.080 0.100 rg (Programming Languages:) Tj /F1 9.20 Tf 0.080 0.080 0.100 rg ( Python, Java, JavaScript, SQL) Tj ET
+BT 1 0 0 1 46.00 629.79 Tm /F2 9.20 Tf 0.080 0.080 0.100 rg (Frontend Development:) Tj /F1 9.20 Tf 0.080 0.080 0.100 rg ( HTML5, CSS3, React.js, Tailwind CSS) Tj ET
+BT 1 0 0 1 46.00 618.39 Tm /F2 9.20 Tf 0.080 0.080 0.100 rg (Backend Development:) Tj /F1 9.20 Tf 0.080 0.080 0.100 rg ( Node.js, Express.js, FastAPI, Flask, REST APIs) Tj ET
+BT 1 0 0 1 46.00 606.99 Tm /F2 9.20 Tf 0.080 0.080 0.100 rg (Databases:) Tj /F1 9.20 Tf 0.080 0.080 0.100 rg ( MongoDB, MySQL, Supabase, ChromaDB) Tj ET
+BT 1 0 0 1 46.00 595.59 Tm /F2 9.20 Tf 0.080 0.080 0.100 rg (Machine Learning:) Tj /F1 9.20 Tf 0.080 0.080 0.100 rg ( Scikit-learn, XGBoost, Supervised Learning, Unsupervised Learning, Feature Engineering, Model Evaluation) Tj ET
+BT 1 0 0 1 46.00 584.19 Tm /F2 9.20 Tf 0.080 0.080 0.100 rg (Deep Learning:) Tj /F1 9.20 Tf 0.080 0.080 0.100 rg ( Neural Networks, CNN, TensorFlow, PyTorch) Tj ET
+BT 1 0 0 1 46.00 572.79 Tm /F2 9.20 Tf 0.080 0.080 0.100 rg (Generative AI:) Tj /F1 9.20 Tf 0.080 0.080 0.100 rg ( LLMs, Prompt Engineering, Embeddings, RAG, LangChain, Vector Databases, Guardrails) Tj ET
+BT 1 0 0 1 46.00 561.39 Tm /F2 9.20 Tf 0.080 0.080 0.100 rg (Agentic AI:) Tj /F1 9.20 Tf 0.080 0.080 0.100 rg ( AI Agents, LangGraph, CrewAI, Multi-Agent Systems, Tool Calling, MCP, Function Calling, Agent Evaluations) Tj ET
+BT 1 0 0 1 46.00 549.99 Tm /F2 9.20 Tf 0.080 0.080 0.100 rg (NLP & Computer Vision:) Tj /F1 9.20 Tf 0.080 0.080 0.100 rg ( NLP, TF-IDF, Semantic Search, OpenCV, MediaPipe, Face Recognition) Tj ET
+BT 1 0 0 1 46.00 538.59 Tm /F2 9.20 Tf 0.080 0.080 0.100 rg (MLOps & Deployment:) Tj /F1 9.20 Tf 0.080 0.080 0.100 rg ( AWS, Docker, MLflow, CI/CD, Model Deployment, Model Monitoring, Streamlit) Tj ET
+BT 1 0 0 1 46.00 527.19 Tm /F2 9.20 Tf 0.080 0.080 0.100 rg (Tools & DevOps:) Tj /F1 9.20 Tf 0.080 0.080 0.100 rg ( Git, GitHub, Jupyter Notebook, VS Code) Tj ET
+BT 1 0 0 1 278.08 502.29 Tm /F2 11.50 Tf 0.070 0.070 0.080 rg (Projects) Tj ET
+0.15 0.15 0.18 RG 0.75 w 46.00 498.29 m 549.28 498.29 l S
+BT 1 0 0 1 46.00 485.79 Tm /F2 9.60 Tf 0.080 0.080 0.100 rg (AI Resume ATS System | NLP, GenAI, RAG, React, FastAPI  |  ) Tj /F2 9.60 Tf 0.110 0.310 0.850 rg (GitHub) Tj ET
+BT 1 0 0 1 56.00 473.59 Tm /F1 9.20 Tf 0.070 0.070 0.080 rg (- Built an AI-powered ATS system to analyze resumes against job descriptions using NLP, embeddings, and semantic similarity.) Tj ET
+BT 1 0 0 1 56.00 462.39 Tm /F1 9.20 Tf 0.070 0.070 0.080 rg (- Integrated LLMs and RAG to generate resume scores, skill-gap analysis, and personalized improvement suggestions.) Tj ET
+BT 1 0 0 1 56.00 451.19 Tm /F1 9.20 Tf 0.070 0.070 0.080 rg (- Developed a full-stack application with React frontend and FastAPI backend for automated resume evaluation.) Tj ET
+BT 1 0 0 1 46.00 436.49 Tm /F2 9.60 Tf 0.080 0.080 0.100 rg (AI Chatbot with Web Search | Python, LangGraph, Streamlit, LLM  |  ) Tj /F2 9.60 Tf 0.110 0.310 0.850 rg (GitHub) Tj ET
+BT 1 0 0 1 56.00 424.29 Tm /F1 9.20 Tf 0.070 0.070 0.080 rg (- Developed an Agentic AI chatbot using Python, LangGraph and LLMs.) Tj ET
+BT 1 0 0 1 56.00 413.09 Tm /F1 9.20 Tf 0.070 0.070 0.080 rg (- Integrated Web Search for real-time information retrieval and accurate responses.) Tj ET
+BT 1 0 0 1 56.00 401.89 Tm /F1 9.20 Tf 0.070 0.070 0.080 rg (- Built an interactive Streamlit-based chatbot interface with dynamic query handling and web-powered responses.) Tj ET
+BT 1 0 0 1 46.00 387.19 Tm /F2 9.60 Tf 0.080 0.080 0.100 rg (AI Gym Trainer | Computer Vision, MediaPipe, OpenCV  |  ) Tj /F2 9.60 Tf 0.110 0.310 0.850 rg (GitHub) Tj ET
+BT 1 0 0 1 56.00 374.99 Tm /F1 9.20 Tf 0.070 0.070 0.080 rg (- Built an AI-powered fitness trainer using MediaPipe pose estimation for real-time exercise tracking.) Tj ET
+BT 1 0 0 1 56.00 363.79 Tm /F1 9.20 Tf 0.070 0.070 0.080 rg (- Implemented movement and posture analysis to detect incorrect exercise form and repetitions.) Tj ET
+BT 1 0 0 1 56.00 352.59 Tm /F1 9.20 Tf 0.070 0.070 0.080 rg (- Provided real-time corrective feedback to help users perform exercises more accurately.) Tj ET
+BT 1 0 0 1 274.21 324.39 Tm /F2 11.50 Tf 0.070 0.070 0.080 rg (Education) Tj ET
+0.15 0.15 0.18 RG 0.75 w 46.00 320.39 m 549.28 320.39 l S
+BT 1 0 0 1 46.00 307.89 Tm /F2 9.50 Tf 0.070 0.070 0.080 rg (Brainware University, Barasat - CGPA: 7.8/10) Tj ET
+BT 1 0 0 1 468.50 307.89 Tm /F1 9.20 Tf 0.070 0.070 0.080 rg (August 2023 - Present) Tj ET
+BT 1 0 0 1 46.00 296.39 Tm /F1 9.20 Tf 0.070 0.070 0.080 rg (B.Tech in Computer Science Engineering \(Data Science\)) Tj ET
+BT 1 0 0 1 46.00 282.89 Tm /F2 9.50 Tf 0.070 0.070 0.080 rg (Sehara Bazar C.K. Institution - 74.8%) Tj ET
+BT 1 0 0 1 463.54 282.89 Tm /F1 9.20 Tf 0.070 0.070 0.080 rg (April 2021 - March 2023) Tj ET
+BT 1 0 0 1 46.00 271.39 Tm /F1 9.20 Tf 0.070 0.070 0.080 rg (Higher Secondary \(XII\), WBCHSE) Tj ET
+BT 1 0 0 1 254.65 244.39 Tm /F2 11.50 Tf 0.070 0.070 0.080 rg (Key Achievements) Tj ET
+0.15 0.15 0.18 RG 0.75 w 46.00 240.39 m 549.28 240.39 l S
+BT 1 0 0 1 50.00 227.89 Tm /F1 9.20 Tf 0.070 0.070 0.080 rg (- Completed certified AI/ML training under Samsung Innovation Campus.) Tj ET
+BT 1 0 0 1 50.00 216.49 Tm /F1 9.20 Tf 0.070 0.070 0.080 rg (- Solved 200+ DSA problems across arrays, strings, sorting, recursion, binary search, trees, and other core topics on LeetCode.) Tj ET
+BT 1 0 0 1 50.00 205.09 Tm /F1 9.20 Tf 0.070 0.070 0.080 rg (- Built 4+ AI-based projects spanning Machine Learning, NLP, Computer Vision, Generative AI, and Agentic AI.) Tj ET
+BT 1 0 0 1 246.56 180.19 Tm /F2 11.50 Tf 0.070 0.070 0.080 rg (Courses & Languages) Tj ET
+0.15 0.15 0.18 RG 0.75 w 46.00 176.19 m 549.28 176.19 l S
+BT 1 0 0 1 46.00 163.69 Tm /F1 9.00 Tf 0.070 0.070 0.080 rg (Courses: Complete Python Bootcamp \(Online Course\) | MERN Stack Development \(Apna College\) | Machine Learning & Artificial) Tj ET
+BT 1 0 0 1 46.00 152.49 Tm /F1 9.00 Tf 0.070 0.070 0.080 rg (Intelligence \(Apna College\) | Complete Agentic AI Bootcamp \(Udemy\)) Tj ET
+BT 1 0 0 1 46.00 141.29 Tm /F1 9.00 Tf 0.070 0.070 0.080 rg (Languages: English \(Professional Proficiency\) | Hindi \(Native Proficiency\) | Bengali \(Conversational Proficiency\)) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Annot /Subtype /Link /Rect [287.38 777.39 372.88 788.39] /Border [0 0 0] /A << /S /URI /URI (mailto:rahulhor2024@gmail.com) >> >>
+endobj
+8 0 obj
+<< /Type /Annot /Subtype /Link /Rect [385.48 777.39 415.36 788.39] /Border [0 0 0] /A << /S /URI /URI (https://www.linkedin.com/in/rahul-hor-165709361/) >> >>
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Link /Rect [427.96 777.39 452.80 788.39] /Border [0 0 0] /A << /S /URI /URI (https://github.com/rahul18052005) >> >>
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [465.40 777.39 499.24 788.39] /Border [0 0 0] /A << /S /URI /URI (https://leetcode.com/u/rahul794/) >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [296.59 483.79 324.41 495.39] /Border [0 0 0] /A << /S /URI /URI (https://github.com/rahul18052005/ATS-Analyzer) >> >>
+endobj
+12 0 obj
+<< /Type /Annot /Subtype /Link /Rect [316.95 434.49 344.77 446.09] /Border [0 0 0] /A << /S /URI /URI (https://github.com/rahul18052005/Agentic-Chatbot) >> >>
+endobj
+13 0 obj
+<< /Type /Annot /Subtype /Link /Rect [280.46 385.19 308.28 396.79] /Border [0 0 0] /A << /S /URI /URI (https://github.com/rahul18052005/AI-GYM-COACH) >> >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000313 00000 n 
+0000000385 00000 n 
+0000000456 00000 n 
+0000008727 00000 n 
+0000008882 00000 n 
+0000009056 00000 n 
+0000009214 00000 n 
+0000009373 00000 n 
+0000009545 00000 n 
+0000009720 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R >>
+startxref
+9892
+%%EOF
